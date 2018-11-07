@@ -1,2 +1,2 @@
 # UnEthicalSongScraper
-scrape songs based on links given
+a simple scraper songs based on links given
